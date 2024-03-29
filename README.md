@@ -8,7 +8,7 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 <font size="-1">
 
-🎨 I believe in the power of design thinking and usability to create intuitive interfaces.
+🎨 I love to code and solve puzzles as much as building good looking and intuitive interfaces. If it's code related please count me in!
 
 💻 Proficient in a variety of frontend technologies including **JavaScript**, **HTML**, **CSS**, and **ReactJS**; always eager to explore new tools and techniques.
 
@@ -33,7 +33,7 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 <font size="-1">
 
-📫 **Drop me a line via [email](mailto:camilapieroni.cp@gmail.com)** - I'm always up for a frontend-focused discussion!
+📫 **Drop me a line via [email](mailto:camilapieroni.cp@gmail.com)** - I'm always up for a discussion!
 
 💼 **Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/camila-pieroni-215930185)**
 
