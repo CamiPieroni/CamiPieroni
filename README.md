@@ -8,7 +8,7 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 <font size="-1">
 
-🎨 I believe in the power of **design thinking** and **usability** to create impactful and intuitive interfaces.
+🎨 I believe in the power of design thinking and usability to create intuitive interfaces.
 
 💻 Proficient in a variety of frontend technologies including **JavaScript**, **HTML**, **CSS**, and **ReactJS**; always eager to explore new tools and techniques.
 
@@ -22,7 +22,7 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 🔭 Currently, I'm sculpting my portfolio, shaping it (or at least trying to) into something that's not the average SPA.
 
-🖌️ I’m currently diving deeper into **UI/UX design** and **Docker** to elevate my skills and stay ahead of the curve.
+🖌️ Diving deeper into **UI/UX design** and **Docker**.
 
 💬 Let's collaborate! Whether it's optimizing performance, refining UX/UI, or brainstorming innovative ideas, I'm all ears!
 
@@ -46,9 +46,9 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 <font size="-1">
 
-🌻 When I'm not perfecting pixels, you can find me **exploring the great outdoors**, playing the latest indie games, or delving into a good book.
+🌻 When I'm not perfecting pixels, you can find me exploring the great outdoors, playing the latest indie games, or reading a good book.
 
-🌟 **My mantra:** "Try it, if it fails it will be a good story to tell"
+🌟 **My mantra:** "Try it, if it fails it will be a good story to tell".
 
 </font>
 <br/>
@@ -58,8 +58,6 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 <font size="-1">
 
 🚀 If you have an idea or a project in mind, let's collaborate and bring it to life!
-
-💡 Innovation thrives in teamwork, and I'm eager to be a part of it.
 
 </font>
 <br/>
